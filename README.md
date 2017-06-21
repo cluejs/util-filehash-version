@@ -1,5 +1,5 @@
 # util-filehash-version
-Just hashy utility based on hashy to get filehash by filepath
+Just hasha utility based on hasha to get filehash by filepath
 
 #### Install:
 ```
