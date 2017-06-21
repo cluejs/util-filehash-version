@@ -1,0 +1,24 @@
+{
+  "name": "cluejs@util-filehash-version",
+  "version": "1.0.0",
+  "description": "Just hashy utility to get filehash by filepath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cluejs/util-filehash-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cluejs/util-filehash-version/issues"
+  },
+  "homepage": "https://github.com/cluejs/util-filehash-version#readme",
+  "dependencies": {
+    "file-exists": "^4.0.0",
+    "hasha": "^3.0.0"
+  }
+}
