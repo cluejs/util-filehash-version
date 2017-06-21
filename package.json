@@ -1,6 +1,6 @@
 {
-  "name": "cluejs@util-filehash-version",
-  "version": "1.0.0",
+  "name": "util-filehash-version",
+  "version": "1.0.1",
   "description": "Just hashy utility to get filehash by filepath",
   "main": "index.js",
   "scripts": {
